@@ -1,0 +1,33 @@
+ATM Simulation Menu:
+1. Check Balance
+2. Withdraw
+3. Deposit
+4. Exit
+Choose an option: 1
+Current Balance: 1000
+
+ATM Simulation Menu:
+1. Check Balance
+2. Withdraw
+3. Deposit
+4. Exit
+Choose an option: 2
+Enter amount to withdraw: 200
+You withdrew 200. New Balance: 800
+
+ATM Simulation Menu:
+1. Check Balance
+2. Withdraw
+3. Deposit
+4. Exit
+Choose an option: 3
+Enter amount to deposit: 500
+You deposited 500. New Balance: 1300
+
+ATM Simulation Menu:
+1. Check Balance
+2. Withdraw
+3. Deposit
+4. Exit
+Choose an option: 4
+Thank you for using the ATM. Goodbye!
